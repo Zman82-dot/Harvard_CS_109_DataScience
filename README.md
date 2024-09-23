@@ -1,7 +1,3 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+This is my portfolio for Harvard cs109
+In the Harvardxcs109 folder you woll find my project correlating to each weeks problem sets.
+Demonstrating the use of mathematical probrability wgich was a prerequisite for this course .This course challenges you mathematically evemn more then the previous data science for python course I have yaken in the past
